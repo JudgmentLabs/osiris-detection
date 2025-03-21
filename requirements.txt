@@ -1,0 +1,5 @@
+openai
+tqdm
+pydantic
+torch
+transformers
